@@ -1,0 +1,21 @@
+.navbar-default {
+	margin-bottom: 0;
+	background-color: cyan;
+	background-image: none;
+}
+
+.img-responsive {
+	width: 80%;
+}
+
+.jumbotron {
+	text-align: center;
+}
+
+.btn-primary {
+	background-color: pink;
+	background-image: none;
+	border-color: pink;
+	color: black;
+
+}
